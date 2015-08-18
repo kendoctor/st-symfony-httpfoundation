@@ -1,0 +1,12 @@
+{
+    "name": "kendoctor/st-symfony-httpfoundation",
+    "authors": [
+        {
+            "name": "kendoctor",
+            "email": "kendoctor@163.com"
+        }
+    ],
+    "require": {
+        "symfony/http-foundation" : "2.7.x"
+    }
+}
